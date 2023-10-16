@@ -5,6 +5,17 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Oct 2023 11:46:22 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>/posts/intro/</link>
+      <pubDate>Fri, 13 Oct 2023 11:46:22 -0400</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>Welcome to JoolSite! Jool is an author of this site. He is a college man in real life. He likes astronomy, computers, languages, and geography. He plays Kerbal Space Program and SuperTuxKart. He also uploads videos too, but the rate of uploads is slowing down. He has some social media sites that are listed in the upper right corner.
+He is on video social media sites including YouTube, Rumble, and Odysee.</description>
+    </item>
+    
   </channel>
 </rss>
