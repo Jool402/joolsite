@@ -1,7 +1,7 @@
 ---
 title: "Youtube Inactivity"
 date: 2023-10-15T19:00:19-04:00
-draft: true
+draft: false
 ---
 
 ## Why have I been inactive on Youtube
