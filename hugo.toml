@@ -4,9 +4,9 @@ languageCode = "en"
 
 [params]
 author = "Jool"
-description = "Jool's Cool Site"
+description = "Site made by Jool"
 profilePicture = "images/profile.png"
-title = "Jool's Site"
+title = "Kerbsite"
 
 [[params.socialIcons]]
 icon = "fab fa-youtube"
