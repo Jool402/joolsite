@@ -5,7 +5,7 @@ languageCode = "en"
 [params]
 author = "Jool"
 description = "Jool's Cool Site"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.png"
 title = "Jool's Site"
 
 [[params.socialIcons]]
@@ -19,7 +19,7 @@ title = "GitHub"
 url = "https://github.com/Jool402"
 
 [[params.socialIcons]]
-icon = "fas fa-hashtag"
+icon = "fa-thin fa-m"
 title = "Matrix"
 url = "https://matrix.to/#/@jool4832:matrix.org"
 
