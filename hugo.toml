@@ -1,6 +1,30 @@
-theme = 'diary'
+theme = 'anatole'
 title = "Jool's Site"
 disqusShortname = 'Jool'
+defaultContentLanguage = "en"
+languageCode = "en"
+profilePicture = "images/profile.png"
+
 [params]
   author = "Jool"
   description = "Jool's Cool Site"
+
+[menu]
+
+	[[menu.main]]
+	name = "Home"
+	identifier = "home"
+	weight = 100
+	url = "/"
+
+	[[menu.main]]
+	name = "Posts"
+	weight = 200
+	identifier = "posts"
+	url = "/posts/"
+
+	[[menu.main]]
+	name = "About"
+	weight = 300
+	identifier = "about"
+	url = "/about/"
