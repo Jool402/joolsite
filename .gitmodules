@@ -1,6 +1,6 @@
 [submodule "themes/diary"]
 	path = themes/diary
 	url = https://github.com/AmazingRise/hugo-theme-diary
-[submodule "themes/anadole"]
-	path = themes/anadole
+[submodule "themes/anatole"]
+	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole
