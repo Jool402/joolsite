@@ -1,13 +1,32 @@
 theme = 'anatole'
-title = "Jool's Site"
-disqusShortname = 'Jool'
 defaultContentLanguage = "en"
 languageCode = "en"
-profilePicture = "images/profile.png"
 
 [params]
-  author = "Jool"
-  description = "Jool's Cool Site"
+author = "Jool"
+description = "Jool's Cool Site"
+profilePicture = "images/profile.jpg"
+title = "Jool's Site"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/channel/UCNYA6ENeBhAX--OFFIQWDeQ"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/Jool402"
+
+[[params.socialIcons]]
+icon = "fas fa-hashtag"
+title = "Matrix"
+url = "https://matrix.to/#/@jool4832:matrix.org"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:proton.h0pmk@aleeas.com"
 
 [menu]
 
@@ -22,9 +41,3 @@ profilePicture = "images/profile.png"
 	weight = 200
 	identifier = "posts"
 	url = "/posts/"
-
-	[[menu.main]]
-	name = "About"
-	weight = 300
-	identifier = "about"
-	url = "/about/"

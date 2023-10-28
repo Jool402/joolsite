@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Jool Site'
 theme = 'paper'
+[params]
+profilePicture = "images/profile.jpg"
