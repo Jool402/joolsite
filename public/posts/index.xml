@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Jool Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Jool Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2023 19:00:19 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 15:15:31 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back in Business</title>
+      <link>http://example.org/posts/backinbusiness/</link>
+      <pubDate>Fri, 08 Dec 2023 15:15:31 -0500</pubDate>
+      
+      <guid>http://example.org/posts/backinbusiness/</guid>
+      <description>My busy days are over for a month. I do not have to finish important things that would slow my leisure activities down. I will be able to write more posts for this website. In addition, I could also learn more to know how to program. I will also be able to publish some videos and shorts to boost my channel&amp;rsquo;s subscribers.
+While work is essential for needs and profit, leisure is also necessary as a guy can be tired of working.</description>
+    </item>
+    
     <item>
       <title>Youtube Inactivity</title>
-      <link>/posts/youtubeinactivity/</link>
+      <link>http://example.org/posts/youtubeinactivity/</link>
       <pubDate>Sun, 15 Oct 2023 19:00:19 -0400</pubDate>
       
-      <guid>/posts/youtubeinactivity/</guid>
-      
-        <description>Why have I been inactive on Youtube Clarification There are multiple reasons why I am inactive on YouTube. I would like to clarify that it does not mean I will never be posting a video. It just means that the upload rate is slow. I used to upload videos within once or twice per week. One video per month is also possible.
+      <guid>http://example.org/posts/youtubeinactivity/</guid>
+      <description>Why have I been inactive on Youtube Clarification There are multiple reasons why I am inactive on YouTube. I would like to clarify that it does not mean I will never be posting a video. It just means that the upload rate is slow. I used to upload videos within once or twice per week. One video per month is also possible.
 Real life imports School is what slows down my upload rate.</description>
-      
     </item>
     
   </channel>
