@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/backinbusiness/</loc>
-    <lastmod>2023-12-08T15:15:31-05:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-02-25T10:09:41-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-12-08T15:15:31-05:00</lastmod>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-02-25T10:09:41-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-12-08T15:15:31-05:00</lastmod>
+    <loc>//localhost:1313/posts/customizing-the-kde-plasma/</loc>
+    <lastmod>2024-02-25T10:09:41-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/youtubeinactivity/</loc>
-    <lastmod>2023-10-15T19:00:19-04:00</lastmod>
+    <loc>//localhost:1313/posts/distroreview/</loc>
+    <lastmod>2024-01-27T11:06:04-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2023-10-13T11:46:22-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/intro/</loc>
+    <loc>//localhost:1313/about/intro/</loc>
     <lastmod>2023-10-13T11:46:22-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
