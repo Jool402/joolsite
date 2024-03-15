@@ -16,6 +16,6 @@ Fast forward to 2023, I installed Fedora Linux GNOME on my external drive attach
 
 I booted up Fedora to launch system configuration program on KDE. I went to appearances with steps to get to the KDE theme download manager. Then I searched up Lyra Blue and I set the Lyra Blue themes as default themes for every aspect of KDE and SDDM display manager.
 
-The Lyrab looked very sci-fi, so I love it!
+The Lyrab looked very sci-fi. It reminded me of when I used KDE plasma with the same theme 3 years ago.
 
 [image place holder]
