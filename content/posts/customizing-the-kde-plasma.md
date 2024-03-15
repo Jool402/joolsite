@@ -10,8 +10,8 @@ Here's a little story, I was running Arch Linux on the old desktop that ran an A
 
 I started with LXDE, then I went up to XFCE all the way even to GNOME. GNOME freezes on this desktop sometimes. I even experimented with different tiling managers.
 
-I used Lyrab KDE theme for only a brief period of time though. I experimented with other themes that work with KDE.
+I used Lyra Blue KDE theme for only a brief period of time though. I experimented with other themes that work with KDE. One of the notable candy-looking theme I found is []. I set that theme before I went with Lyra Blue
 
 Therefore, I was not only a distro hopper, but a DE hopper, and a theme hopper. 
 
-Back on topic, I booted up Fedora to launch system configuration program on KDE. I went to appearances with steps to get to the KDE theme download manager. Then I searched up Lyrab and I set the Lyrab themes as default themes for every aspect of KDE and SDDM display manager.
+Back on topic, I booted up Fedora to launch system configuration program on KDE. I went to appearances with steps to get to the KDE theme download manager. Then I searched up Lyra Blue and I set the Lyra Blue themes as default themes for every aspect of KDE and SDDM display manager.
