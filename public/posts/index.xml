@@ -6,12 +6,12 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 10:09:41 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 10:09:41 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recustomizing My KDE Plasma</title>
       <link>//localhost:1313/posts/customizing-the-kde-plasma/</link>
-      <pubDate>Sun, 25 Feb 2024 10:09:41 -0500</pubDate>
+      <pubDate>Fri, 15 Mar 2024 10:09:41 -0500</pubDate>
       <guid>//localhost:1313/posts/customizing-the-kde-plasma/</guid>
       <description>A couple or three days ago, I recustomized the KDE desktop environment. While customizing the desktop environment, I remembered that back in 2021, I found a sci-fi-looking theme that would nicely fit with my KDE setup. I briefly used it in 2021, but I will be using it much longer on my new setups (new meaning two and three years old computers).&#xA;Here&amp;rsquo;s a little story, I was running Arch Linux on the old desktop that ran an Athlon 64 processor (I cannot remember the exact generation of this CPU, but it was somewhere around 3xxx or 2xxx), 2GB RAM, and Windows XP preinstalled.</description>
     </item>

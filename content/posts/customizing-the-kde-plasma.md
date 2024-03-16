@@ -18,4 +18,4 @@ I booted up Fedora to launch system configuration program on KDE. I went to appe
 
 The Lyrab looked very sci-fi. It reminded me of when I used KDE plasma with the same theme 3 years ago.
 
-[image place holder]
+![Lyra Blue Desktop Screenshot](/images/lyrab-desktop-screenshot.png)
