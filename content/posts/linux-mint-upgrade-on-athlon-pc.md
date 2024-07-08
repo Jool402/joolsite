@@ -1,5 +1,5 @@
 ---
-title: "Linux Mint Upgrade on Athlon Pc"
+title: "Linux Mint Upgrade on Athlon PC"
 date: 2024-06-30T19:42:35-04:00
 draft: false
 ---
