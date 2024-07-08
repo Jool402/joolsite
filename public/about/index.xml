@@ -4,7 +4,7 @@
     <title>Abouts on </title>
     <link>//localhost:1313/about/</link>
     <description>Recent content in Abouts on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Oct 2023 11:46:22 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />

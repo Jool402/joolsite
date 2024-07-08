@@ -4,10 +4,17 @@
     <title>Posts on </title>
     <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Mar 2024 10:09:41 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 19:42:35 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Mint Upgrade on Athlon Pc</title>
+      <link>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</link>
+      <pubDate>Sun, 30 Jun 2024 19:42:35 -0400</pubDate>
+      <guid>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</guid>
+      <description>I mentioned one of my PCs running Linux with an Athlon 64 CPU in previous articles. HP built one of them, so it goes through years ever since Windows XP came out.&#xA;It went through a distrohopping phase from Arch Linux to Linux Mint. I put Arch Linux, Debian, Linux Mint, NixOS, etc. Not everything went successfully. The failed distros were Gentoo and KISS Linux.&#xA;Many Linux distros worked out of the box, but I eventually switched back to the first three distros mentioned in the list.</description>
+    </item>
     <item>
       <title>Recustomizing My KDE Plasma</title>
       <link>//localhost:1313/posts/customizing-the-kde-plasma/</link>

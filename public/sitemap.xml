@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-03-16T10:09:41-05:00</lastmod>
+    <lastmod>2024-06-30T19:42:35-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</loc>
+    <lastmod>2024-06-30T19:42:35-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-03-16T10:09:41-05:00</lastmod>
+    <lastmod>2024-06-30T19:42:35-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/customizing-the-kde-plasma/</loc>
     <lastmod>2024-03-16T10:09:41-05:00</lastmod>
