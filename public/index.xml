@@ -4,12 +4,19 @@
     <title></title>
     <link>//localhost:1313/</link>
     <description>Recent content on </description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2024 19:42:35 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 13:01:18 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linux Mint Upgrade on Athlon Pc</title>
+      <title>FUTO Keyboard Review</title>
+      <link>//localhost:1313/posts/futo-keyboard-review/</link>
+      <pubDate>Fri, 12 Jul 2024 13:01:18 -0400</pubDate>
+      <guid>//localhost:1313/posts/futo-keyboard-review/</guid>
+      <description>Intro A few days ago, someone on a Matrix server introduced me to the FUTO Keyboard. The new keyboard application seemed promising as a replacement for the AnySoftKeyboard application.&#xA;I went to its website to install it. Once I set it up, the keyboard looked neat. Although it is in alpha,1 I love this keyboard.&#xA;Why replace AnySoftKeyboard? I am multilingual, so I have installed many language packs for AnySoftKeyboard. I did not want too many of these language packs unnecessarily installed because they take up launcher space.</description>
+    </item>
+    <item>
+      <title>Linux Mint Upgrade on Athlon PC</title>
       <link>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</link>
       <pubDate>Sun, 30 Jun 2024 19:42:35 -0400</pubDate>
       <guid>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</guid>
