@@ -1,6 +1,8 @@
-theme = 'paper'
+theme = 'hugo-PaperMod'
 defaultContentLanguage = "en"
-languageCode = "en"
+canonifyURLs = true
+title = 'Jool Site'
+languageCode = 'en'
 
 [params]
 author = "Jool"
