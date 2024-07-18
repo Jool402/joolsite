@@ -1,7 +1,7 @@
 baseURL = 'https://jool402.github.io/joolsite/'
 languageCode = 'en-us'
 title = 'Jool Site'
-theme = 'paper'
+theme = 'diary'
 canonifyURLs = true
 
 [params]
