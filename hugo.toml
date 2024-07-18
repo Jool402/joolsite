@@ -1,8 +1,7 @@
 theme = 'diary'
-defaultContentLanguage = "en"
-canonifyURLs = true
 title = 'Jool Site'
 languageCode = 'en'
+baseURL = 'https://jool402.github.io/joolsite/'
 
 [params]
 author = "Jool"
