@@ -1,4 +1,4 @@
-theme = 'diary'
+theme = 'paper'
 title = 'Jool Site'
 languageCode = 'en'
 baseURL = 'https://jool402.github.io/joolsite/'
