@@ -1,4 +1,4 @@
-theme = 'hugo-PaperMod'
+theme = 'paper'
 defaultContentLanguage = "en"
 canonifyURLs = true
 title = 'Jool Site'
