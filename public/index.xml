@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jool Site</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/joolsite/</link>
     <description>Recent content on Jool Site</description>
     <generator>Hugo -- 0.123.8</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2024 13:01:18 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/joolsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>//localhost:1313/posts/intro/</link>
+      <link>http://localhost:1313/joolsite/posts/intro/</link>
       <pubDate>Fri, 13 Oct 2023 11:46:22 -0400</pubDate>
-      <guid>//localhost:1313/posts/intro/</guid>
+      <guid>http://localhost:1313/joolsite/posts/intro/</guid>
       <description>Welcome to Kerbsite! Let&amp;rsquo;s introduce Jool! Jool is an author of this site. He is a college man in real life. He likes astronomy, computers, languages, and geography. He plays Kerbal Space Program, Endless Sky, and SuperTuxKart. He also uploads videos too, but the rate that he uploads is slowing down. He has some social media sites that are listed in social media links and usernames.
 He is on video social media sites including YouTube, Twitch, Rumble, and Odysee.</description>
     </item>
     <item>
       <title>FUTO Keyboard Review</title>
-      <link>//localhost:1313/posts/futo-keyboard-review/</link>
+      <link>http://localhost:1313/joolsite/posts/futo-keyboard-review/</link>
       <pubDate>Fri, 12 Jul 2024 13:01:18 -0400</pubDate>
-      <guid>//localhost:1313/posts/futo-keyboard-review/</guid>
+      <guid>http://localhost:1313/joolsite/posts/futo-keyboard-review/</guid>
       <description>Intro A few days ago, someone on a Matrix server introduced me to the FUTO Keyboard. The new keyboard application seemed promising as a replacement for the AnySoftKeyboard application.
 I went to its website to install it. Once I set it up, the keyboard looked neat. Although it is in alpha,1 I love this keyboard.
 Why replace AnySoftKeyboard? I am multilingual, so I have installed many language packs for AnySoftKeyboard. I did not want too many of these language packs unnecessarily installed because they take up launcher space.</description>
     </item>
     <item>
       <title>Linux Mint Upgrade on Athlon PC</title>
-      <link>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</link>
+      <link>http://localhost:1313/joolsite/posts/linux-mint-upgrade-on-athlon-pc/</link>
       <pubDate>Sun, 30 Jun 2024 19:42:35 -0400</pubDate>
-      <guid>//localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</guid>
+      <guid>http://localhost:1313/joolsite/posts/linux-mint-upgrade-on-athlon-pc/</guid>
       <description>I mentioned one of my PCs running Linux with an Athlon 64 CPU in previous articles. HP built one of them, so it goes through years ever since Windows XP came out.
 It went through a distrohopping phase from Arch Linux to Linux Mint. I put Arch Linux, Debian, Linux Mint, NixOS, etc. Not everything went successfully. The failed distros were Gentoo and KISS Linux.
 Many Linux distros worked out of the box, but I eventually switched back to the first three distros mentioned in the list.</description>
     </item>
     <item>
       <title>Recustomizing My KDE Plasma</title>
-      <link>//localhost:1313/posts/customizing-the-kde-plasma/</link>
+      <link>http://localhost:1313/joolsite/posts/customizing-the-kde-plasma/</link>
       <pubDate>Sat, 16 Mar 2024 10:09:41 -0500</pubDate>
-      <guid>//localhost:1313/posts/customizing-the-kde-plasma/</guid>
+      <guid>http://localhost:1313/joolsite/posts/customizing-the-kde-plasma/</guid>
       <description>Around a month ago, I recustomized the KDE desktop environment. While finding ways to customize the desktop environment, I remembered that I found a sci-fi-looking theme that would fit nicely with my KDE setup back in 2021. I briefly set this theme in that time, but now I will be using it much longer on my newer setups.
 Here&amp;rsquo;s a little story, I was running Arch Linux on an old desktop that utilized an Athlon 64 4200+ processor, 2GB of RAM, and Windows XP preinstalled.</description>
     </item>
     <item>
       <title>Distro Review and Usage</title>
-      <link>//localhost:1313/posts/distroreview/</link>
+      <link>http://localhost:1313/joolsite/posts/distroreview/</link>
       <pubDate>Sat, 27 Jan 2024 11:06:04 -0500</pubDate>
-      <guid>//localhost:1313/posts/distroreview/</guid>
+      <guid>http://localhost:1313/joolsite/posts/distroreview/</guid>
       <description>I have tried various distros on a couple of my computers (three including my Raspberry Pi). Many popular distros have a reputation for being robust for a Linux user. Then, there are less used Linux distros that I think created a new and smart concept. In contrast, some Linux distros did not work on my computers for some reason.
 I am using a Dell Inspiron with a 360°-flippable touchscreen. I attach an external hard drive to the USB port of my laptop.</description>
     </item>
