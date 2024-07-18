@@ -1,7 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jool402.github.io/joolsite/'
 languageCode = 'en-us'
 title = 'Jool Site'
 theme = 'paper'
+canonifyURLs = true
 
 [params]
 profilePicture = "images/profile.jpg"
