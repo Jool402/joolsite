@@ -1,4 +1,4 @@
-theme = 'paper'
+theme = 'diary'
 defaultContentLanguage = "en"
 canonifyURLs = true
 title = 'Jool Site'
