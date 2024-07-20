@@ -15,7 +15,7 @@ I am multilingual, so I have installed many language packs for AnySoftKeyboard. 
 ## In what way does the FUTO Keyboard look neat?
 It looked like a vanilla Android keyboard. But, the top-left corner of the FUTO keyboard has a button with a right-pointing arrow enclosed in a glowing circle. The number and symbol keys' layouts are similar to those of the Gboard and the AOSP keyboard.
 
-![Example Screenshot of FUTO Keyboard](/images/futo-keyboard-screenshot.png)
+![Example Screenshot of FUTO Keyboard](images/futo-keyboard-screenshot.png)
 
 ## What is the use of the FUTO Keyboard's button?
 The FUTO Keyboard's button can be used to select emojis, control the cursor during text-editing mode, switch between languages, undo, redo, copy and paste, access its settings, switch its theme, show debug info, and access clipboard history. The long list shows the versatility of the button on the keyboard.
