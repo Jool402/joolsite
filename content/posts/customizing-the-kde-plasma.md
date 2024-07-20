@@ -18,6 +18,6 @@ Then, I booted up Fedora to launch system configuration program on KDE. I went t
 
 The Lyra Blue KDE theme looked very sci-fi. It reminded me of when I used KDE plasma with the same theme 3 years ago.
 
-![Lyra Blue Desktop Screenshot](/images/lyrab-desktop-screenshot.png)
+![Lyra Blue Desktop Screenshot](../../images/lyrab-desktop-screenshot.png)
 
 In conclusion, I am satisfied with the setups that I made for my computers that run Linux. It reminds me of being in a sci-fi hallway.
