@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/joolsite/posts/intro/</loc>
+    <loc>http://localhost:1313/posts/intro/</loc>
     <lastmod>2023-10-13T11:46:22-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/posts/futo-keyboard-review/</loc>
+    <loc>http://localhost:1313/posts/futo-keyboard-review/</loc>
     <lastmod>2024-07-12T13:01:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-12T13:01:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-12T13:01:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/posts/linux-mint-upgrade-on-athlon-pc/</loc>
+    <loc>http://localhost:1313/posts/linux-mint-upgrade-on-athlon-pc/</loc>
     <lastmod>2024-06-30T19:42:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/posts/customizing-the-kde-plasma/</loc>
+    <loc>http://localhost:1313/posts/customizing-the-kde-plasma/</loc>
     <lastmod>2024-03-16T10:09:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/posts/distroreview/</loc>
+    <loc>http://localhost:1313/posts/distroreview/</loc>
     <lastmod>2024-01-27T11:06:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joolsite/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/joolsite/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

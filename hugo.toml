@@ -1,38 +1,13 @@
-theme = 'paper'
+theme = 'hugo-PaperMod'
 title = 'Jool Site'
 languageCode = 'en'
-baseURL = 'https://jool402.github.io/joolsite/'
+baseURL = 'https://example.com/'
 
 [params]
 author = "Jool"
 description = "Site made by Jool"
 profilePicture = "images/profile.png"
 title = "Kerbsite"
-
-[[params.socialIcons]]
-icon = "fab fa-youtube"
-title = "YouTube"
-url = "https://www.youtube.com/channel/UCNYA6ENeBhAX--OFFIQWDeQ"
-
-[[params.socialIcons]]
-icon = "fab fa-twitch"
-title = "Twitch"
-url = "https://www.twitch.tv/jool4832"
-
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/Jool402"
-
-[[params.socialIcons]]
-icon = "fa-thin fa-m"
-title = "Matrix"
-url = "https://matrix.to/#/@jool4832:matrix.org"
-
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:best_hope342@twilightbunker.maskmy.id"
 
 [services]
   [services.disqus]

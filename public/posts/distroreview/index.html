@@ -1,306 +1,230 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="en" dir="auto">
 
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Distro Review and Usage | Jool Site</title>
+<meta name="keywords" content="">
+<meta name="description" content="I have tried various distros on a couple of my computers (three including my Raspberry Pi). Many popular distros have a reputation for being robust for a Linux user. Then, there are less used Linux distros that I think created a new and smart concept. In contrast, some Linux distros did not work on my computers for some reason.
+I am using a Dell Inspiron with a 360°-flippable touchscreen. I attach an external hard drive to the USB port of my laptop.">
+<meta name="author" content="Jool">
+<link rel="canonical" href="http://localhost:1313/posts/distroreview/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/distroreview/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
 
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
 
+            .list {
+                background: var(--theme);
+            }
 
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
 
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<html
-  class="not-ready lg:text-base"
-  style="--bg: #faf8f1"
-  lang="en"
->
-  <head><script src="/joolsite/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=joolsite/livereload" data-no-instant defer></script>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
-
-  
-  <title>Distro Review and Usage - Jool Site</title>
-
-  
-  <meta name="theme-color" />
-
-  
-  
-  
-  
-  <meta name="description" content="I have tried various distros on a couple of my computers (three including my Raspberry Pi). Many popular distros have a reputation for being robust for a Linux user. Then, there are less used Linux distros that I think created a new and smart concept. In contrast, some Linux distros did not work on my computers for some reason.
-I am using a Dell Inspiron with a 360°-flippable touchscreen. I attach an external hard drive to the USB port of my laptop." />
-  <meta name="author" content="Jool Site" />
-  
-
-  
-  
-  
-  
-  
-  
-  <link rel="preload stylesheet" as="style" href="http://localhost:1313/joolsite/main.min.css" />
-
-  
-  
-  
-  
-  
-  <link rel="preload" as="image" href="http://localhost:1313/joolsite/theme.png" />
-
-  
-  
-  
-  
-  
-
-  
-  
-  
-
-  
-  
-  <script
-    defer
-    src="http://localhost:1313/joolsite/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
-  ></script>
-  
-
-  
-  
-  
-
-  
-  <link rel="icon" href="http://localhost:1313/joolsite/favicon.ico" />
-  <link rel="apple-touch-icon" href="http://localhost:1313/joolsite/apple-touch-icon.png" />
-
-  
-  <meta name="generator" content="Hugo 0.123.8">
-
-  
-  
-  
+    </style>
+</noscript>
 </head>
 
-  <body class="text-black duration-200 ease-out dark:text-white">
-    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
-  <div class="relative z-50 mr-auto flex items-center">
-    <a
-      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="http://localhost:1313/joolsite/"
-      >Jool Site</a
-    >
-    <div
-      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
-      role="button"
-      aria-label="Dark"
-    ></div>
-  </div>
-
-  <div
-    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
-    role="button"
-    aria-label="Menu"
-  ></div>
-
-  
-  <script>
-    
-    const htmlClass = document.documentElement.classList;
-    setTimeout(() => {
-      htmlClass.remove('not-ready');
-    }, 10);
-
-    
-    const btnMenu = document.querySelector('.btn-menu');
-    btnMenu.addEventListener('click', () => {
-      htmlClass.toggle('open');
-    });
-
-    
-    const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = '#faf8f1'.replace(/"/g, '');
-    const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
-      htmlClass[isDark ? 'add' : 'remove']('dark');
-      localStorage.setItem('dark', isDark);
-    };
-
-    
-    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-    if (htmlClass.contains('dark')) {
-      setDark(true);
-    } else {
-      const darkVal = localStorage.getItem('dark');
-      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
     }
 
-    
-    darkScheme.addEventListener('change', (event) => {
-      setDark(event.matches);
-    });
+</script>
 
-    
-    const btnDark = document.querySelector('.btn-dark');
-    btnDark.addEventListener('click', () => {
-      setDark(localStorage.getItem('dark') !== 'true');
-    });
-  </script>
-
-  <div
-    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
-  >
-    
-    
-    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
-      
-      <a
-        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
-        href="/joolsite/"
-        >Home</a
-      >
-      
-      <a
-        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
-        href="/joolsite/posts/"
-        >Posts</a
-      >
-      
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Jool Site (Alt + H)">Jool Site</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+        </ul>
     </nav>
-    
-
-    
-  </div>
 </header>
+<main class="main">
 
-
-    <main
-      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
-    >
-      
-
-<article>
-  <header class="mb-16">
-    <h1 class="!my-0 pb-2.5">Distro Review and Usage</h1>
-
+<article class="post-single">
+  <header class="post-header">
     
-    <div class="text-sm antialiased opacity-60">
-      
-      <time>Jan 27, 2024</time>
-      
-      
-      
-      
-    </div>
-    
-  </header>
+    <h1 class="post-title entry-hint-parent">
+      Distro Review and Usage
+    </h1>
+    <div class="post-meta"><span title='2024-01-27 11:06:04 -0500 EST'>January 27, 2024</span>&nbsp;·&nbsp;Jool
 
-  <section><p>I have tried various distros on a couple of my computers (three including my Raspberry Pi). Many popular distros have a reputation for being robust for a Linux user. Then, there are less used Linux distros that I think created a new and smart concept. In contrast, some Linux distros did not work on my computers for some reason.</p>
+</div>
+  </header> 
+  <div class="post-content"><p>I have tried various distros on a couple of my computers (three including my Raspberry Pi). Many popular distros have a reputation for being robust for a Linux user. Then, there are less used Linux distros that I think created a new and smart concept. In contrast, some Linux distros did not work on my computers for some reason.</p>
 <p>I am using a Dell Inspiron with a 360°-flippable touchscreen. I attach an external hard drive to the USB port of my laptop. so I can dual-boot. The USB 3.0 and hard drive combination is not the fastest combination as they are both slower than SATA and NVMe. Nevertheless, a Linux distro boots fine with them.</p>
 <p>My desktop is a pre-built PC. It has an NVMe drive that has Windows 11 installed. Additionally, it has a SATA hard drive where I installed Arch Linux.</p>
 <p>I have couple of my Raspberry Pis: the first one is running Raspberry Pi OS (Raspberry Pi 5), and the other one is running Lineage OS 20. The operating systems that I am running on my Pis could change in the future. They are both running on SD cards. I also have the 3rd most powerful Pi in the market.</p>
-<h2 id="ubuntu">Ubuntu</h2>
+<h2 id="ubuntu">Ubuntu<a hidden class="anchor" aria-hidden="true" href="#ubuntu">#</a></h2>
 <p>I tried Ubuntu GNOME on my Raspberry Pi 4. The operating system does not perform seamlessly; at least, it performs well for a computer with a slow reputation. I went further on to install Xubuntu on the device, and it worked snappier because the XFCE desktop is faster than the GNOME desktop environment. Later, I installed the default Raspberry Pi OS onto my Raspberry Pis. I have two of the most performant Raspberry Pis. I got the Raspberry Pi 5 two days ago to test some distros. Now that I have them, I can test ARM64/AARCH64 Linux distros on my latest Pi (also known to me as a PIve).</p>
-<h2 id="debian">Debian</h2>
+<h2 id="debian">Debian<a hidden class="anchor" aria-hidden="true" href="#debian">#</a></h2>
 <p>Debian was one of the first distros I have ever run on a computer. I started running Debian preloaded on a BeagleBone® Black. I also then installed Debian. It is stable; however, it does not like upgrading from a stable release to sid on a GUI terminal. If a user fully updates Debian by typing the commands on the tty, the distro should be ready to upgrade.</p>
-<h2 id="linux-mint">Linux Mint</h2>
+<h2 id="linux-mint">Linux Mint<a hidden class="anchor" aria-hidden="true" href="#linux-mint">#</a></h2>
 <p>Linux Mint was the first distro that I installed on my external hard drive. I did not extensively try Linux Mint, but I did temporarily install Linux Mint on my hard drive for a short time. I used the external hard drive to attach it to one of the two USB ports on my laptop. (I did not want to wipe my Windows on my system as I still need it for some applications.)</p>
-<h2 id="fedora">Fedora</h2>
+<h2 id="fedora">Fedora<a hidden class="anchor" aria-hidden="true" href="#fedora">#</a></h2>
 <p>After I tried Linux Mint out, it was time to run Fedora. Fedora worked great on my system. Lately, I have been having issues with this distro. One of the issues of Fedora on my external hard drive is that it keeps crashing. The crash occurred even after I upgraded the distro to its latest release even after installation. It could be because the hard drive sometimes invisibly disconnects from my computer. It could also be Fedora acting up on my device. I am still running Fedora on the external drive attached despite problems.</p>
-<h2 id="opensuse">OpenSUSE</h2>
+<h2 id="opensuse">OpenSUSE<a hidden class="anchor" aria-hidden="true" href="#opensuse">#</a></h2>
 <p>I tried to install OpenSUSE on the hard drive as I wanted to try something else. Unfortunately, I could not even install this distro on my hard drive. The installer does not list the second drive on my virtual machine. It seemed like an elegant distro to try. It has the unique YaST administration tool for OpenSUSE.</p>
-<h2 id="arch-linux">Arch Linux</h2>
+<h2 id="arch-linux">Arch Linux<a hidden class="anchor" aria-hidden="true" href="#arch-linux">#</a></h2>
 <p>Arch Linux has been running on my desktop since I put it on the SATA hard drive secondary storage device. I have never tried Arch on my new laptop, but I did try Arch on one of my netbooks. I even installed Arch on a Beagleboard, the first computer I have ever had that runs Linux.</p>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">Conclusion<a hidden class="anchor" aria-hidden="true" href="#conclusion">#</a></h2>
 <p>I have settled with Fedora on my external drive, but I am still contemplating whether I keep using Fedora or use a different distro. I can&rsquo;t be sure if the issue I described earlier was a problem from the external HDD or a Fedora problem. I still have Windows 11 on the internal SSD of my laptop. The same thing applies to my desktop.</p>
 <p>I am sticking with Arch Linux for my desktop. Arch Linux has a reputation for breaking after updating because Arch Linux is a rolling release distro. However, it has been working well, so I am not thinking of overwriting Windows with Arch Linux because I need Windows-exclusive software to run.</p>
 <p>The Raspberry Pi 5 is running the official operating system. The stability and function of this operating system is an effect of Debian. On the other hand, the Raspberry Pi 4 is running LineageOS 20. Both of them work well in common.</p>
 <p>I occasionally encounter problems, but a lot of these problems are solvable (except for that Fedora bug that I wrote in the section covering Fedora).</p>
-</section>
-
-  
-  
-
-  
-  
-  
-  
-  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
-    
-    <a
-      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="http://localhost:1313/joolsite/posts/customizing-the-kde-plasma/"
-      ><span class="mr-1.5">←</span><span>Recustomizing My KDE Plasma</span></a
-    >
-    
-    
-  </nav>
-  
-  
-
-  
-  
-  <div class="mt-24" id="disqus_thread"></div>
-  <script>
-    const disqusShortname = 'Jool';
-    const script = document.createElement('script');
-    script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
-    script.setAttribute('data-timestamp', +new Date());
-    document.head.appendChild(script);
-  </script>
-  
-
-  
-  
-
-  
-  
-</article>
 
 
-    </main>
-
-    <footer
-  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
->
-  <div class="mr-auto">
-    &copy; 2024
-    <a class="link" href="http://localhost:1313/joolsite/">Jool Site</a>
   </div>
-  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
-    >Powered by Hugo️️</a
-  >️
-  <a
-    class="link"
-    href="https://github.com/nanxiaobei/hugo-paper"
-    rel="noopener"
-    target="_blank"
-    >✎ Paper</a
-  >
-</footer>
 
-  </body>
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="http://localhost:1313/">Jool Site</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
 </html>
