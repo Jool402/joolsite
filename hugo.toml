@@ -1,7 +1,7 @@
 theme = 'hugo-PaperMod'
 title = 'Jool Site'
 languageCode = 'en'
-baseURL = 'https://example.com/'
+baseURL = 'https://jool402.github.io/joolsite/'
 
 [params]
 author = "Jool"
