@@ -1,17 +1,13 @@
-theme = 'hugo-PaperMod'
-title = 'Jool Site'
+theme = 'beautifulhugo'
+title = 'KeSite'
 languageCode = 'en'
 baseURL = 'https://jool402.github.io/joolsite/'
 
-[params]
-author = "Jool"
-description = "Site made by Jool"
-profilePicture = "images/profile.png"
-title = "Kerbsite"
-
-[services]
-  [services.disqus]
-    shortname = 'Jool'
+[params.author]
+name = "Jool"
+github = "Jool402/joolsite"
+youtube = "@Jool4832"
+email = "dqz8grpl9@mozmail.com"
 
 [menu]
 
@@ -20,9 +16,3 @@ title = "Kerbsite"
 	identifier = "home"
 	weight = 100
 	url = "/"
-
-	[[menu.main]]
-	name = "Posts"
-	weight = 200
-	identifier = "posts"
-	url = "/posts/"
