@@ -1,7 +1,11 @@
-theme = 'beautifulhugo'
+theme = 'DoIt'
 title = 'KeSite'
-languageCode = 'en'
 baseURL = 'https://jool402.github.io/joolsite/'
+defaultContentLanguage = "en"
+homeSubtitle = "Welcome to Jool's Blog!"
+
+[params]
+enableGlobalLanguageMenu = true
 
 [params.author]
 name = "Jool"
@@ -9,6 +13,24 @@ github = "Jool402/joolsite"
 youtube = "@Jool4832"
 email = "dqz8grpl9@mozmail.com"
 
+[languages]
+	[languages.en]
+	disabled = false
+	languageName = "English"
+	languageDirection = "ltr"
+	weight = 1
+
+	[languages.es]
+	disabled = false
+	languageName = "Español"
+	languageDirection = "ltr"
+	weight = 2
+
+	[languages.fr]
+	disabled = true
+	languageName = "French"
+	languageDirection = "ltr"
+	weight = 3
 [menu]
 
 	[[menu.main]]

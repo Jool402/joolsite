@@ -25,7 +25,7 @@ The add-ons may eventually add even more functionality to the button.
 ## Add-ons?
 Add-ons exist---however, the number of add-ons fit on the palm; therefore, add-ons are not to be seen other than voice input and dictionaries.[^2] [^3]
 
-I also hope the FUTO add-on authors could publish them with various input engine support as they will benefit the mobile users who type logographic scripts. 
+I also hope the FUTO add-on authors could publish them with various input engine support as they will benefit the mobile users who type logographic writing systems. 
 
 ## What tricks did you learn on the FUTO Keyboard?
 I learned how to switch multiple languages on the FUTO Keyboard by holding the spacebar until the switch keyboard languages dialog pops up. This neat trick helped me switch between many languages like a shortcut.
