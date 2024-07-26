@@ -1,5 +1,5 @@
 ---
-title: "Distroreview"
+title: "Comentarios sobre Distribuciones"
 date: 2024-07-24T15:44:22-04:00
 draft: false
 ---

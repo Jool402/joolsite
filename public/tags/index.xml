@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - KeSite</title>
-        <link>http://localhost:44295/joolsite/tags/</link>
+        <link>https://jool402.github.io/joolsite/tags/</link>
         <description>Tags - Tag - KeSite</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:44295/joolsite/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://jool402.github.io/joolsite/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -8,7 +8,7 @@ weight: 1
 ## Welcome to Kerbsite!
 
 ### Let's introduce Jool!
-Jool is an author of this site. He is a college man in real life. He likes astronomy, computers, languages, and geography. He plays Kerbal Space Program, Endless Sky, and SuperTuxKart. He also uploads videos too, but the rate that he uploads is slowing down. He has some social media sites that are listed in social media links and usernames.
+Jool is an author of this site. He is a college man in real life. He likes astronomy, computers, languages, and geography. He plays Kerbal Space Program, Endless Sky, and Minecraft. He also uploads videos too, but the rate that he uploads is slowing down. He has some social media sites listed in social media links and usernames.
 
 He is on video social media sites including YouTube, Twitch, Rumble, and Odysee.
 
