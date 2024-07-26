@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>KeSite</title>
+        <link>https://jool402.github.io/joolsite/es/</link>
+        <description>KeSite</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 26 Jul 2024 12:43:21 -0400</lastBuildDate>
+            <atom:link href="https://jool402.github.io/joolsite/es/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Introducción</title>
+    <link>https://jool402.github.io/joolsite/es/posts/intro/</link>
+    <pubDate>Fri, 26 Jul 2024 12:43:21 -0400</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://jool402.github.io/joolsite/es/posts/intro/</guid>
+    <description><![CDATA[¡Bienvenidos a KeSite! ¡Vamos a introducir a Jool!Jool es autor de este sitio. Él es un hombre de [college] en la vida real. A él le gusta astronomía, computadoras, idiomas y geografía. Él juega Kerbal Space Program, Endless Sky y SuperTuxKart. Él sube vídeos también, pero la tasa de subidas se está desacelerando. Él tiene redes sociales listadas por enlaces y nombres de usuarios.
+Él está en YouTube, Twitch, Rumble y Odysee.]]></description>
+</item><item>
+    <title>Personalizando Mi KDE Plasma</title>
+    <link>https://jool402.github.io/joolsite/es/posts/customizing-the-kde-plasma/</link>
+    <pubDate>Fri, 26 Jul 2024 12:28:31 -0400</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://jool402.github.io/joolsite/es/posts/customizing-the-kde-plasma/</guid>
+    <description><![CDATA[Hace aproximadamente un mes, volví a personalizar el entorno de escritorio de KDE. Mientras yo buscaba formas de personalizar el entorno de escritorio, recordé que encontré un tema de aspecto de ciencia ficticia que encajaría maravillosamente con mi configuración de KDE en 2021. Establecí este tema brevemente en ese momento, pero ahora lo usaré por mucho más tiempo en mis configuraciones más nuevas.
+Aquí les cuento una pequeña historia: estaba ejecutando Arch Linux en un escritorio antiguo que utilizaba un procesador Athlon 64 4200+, 2 GB de RAM y Windows XP preinstalado.]]></description>
+</item><item>
+    <title>Reseña de Teclado FUTO</title>
+    <link>https://jool402.github.io/joolsite/es/posts/futo-keyboard-review/</link>
+    <pubDate>Thu, 25 Jul 2024 23:53:40 -0400</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://jool402.github.io/joolsite/es/posts/futo-keyboard-review/</guid>
+    <description><![CDATA[IntroducciónHace pocos días, alguien en un servidor Matrix me presentó el teclado FUTO. La nueva aplicación de teclado parecía prometedora como reemplazo de la aplicación AnySoftKeyboard.
+Fui a su sitio web para instalarlo. Después que lo configuré, el teclado se veía impecable. Aunque está en su versión alfa1 me encanta este teclado.
+¿Porqué reemplazar AnySoftKeyboard?Soy multilingüe, por lo que he instalado muchos paquetes de idiomas para AnySoftKeyboard. No quería tantos paquetes de idiomas instalados porque toman espacio de lanzador.]]></description>
+</item><item>
+    <title>Comentarios sobre Distribuciones</title>
+    <link>https://jool402.github.io/joolsite/es/posts/distroreview/</link>
+    <pubDate>Wed, 24 Jul 2024 15:44:22 -0400</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://jool402.github.io/joolsite/es/posts/distroreview/</guid>
+    <description><![CDATA[He probado varias distribuciones en tres computadoras. Muchas distribuciones populares tienen la reputación de ser robustas para un usuario de Linux. Luego, hay distribuciones de Linux menos utilizadas que crearon un concepto nuevo e inteligente. En contraste, algunas distribuciones de Linux no funcionaron en mis computadoras por alguna razón.
+Estoy usando una Dell Inspiron con una pantalla táctil que se puede girar 360°. Conecto un disco duro externo al puerto USB de mi computadora portátil para poder realizar un arranque dual.]]></description>
+</item></channel>
+</rss>

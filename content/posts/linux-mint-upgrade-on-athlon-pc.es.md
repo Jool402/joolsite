@@ -1,7 +1,7 @@
 ---
 title: "Actualización de Linux Mint en PC Athlon"
 date: 2024-07-26T12:35:58-04:00
-draft: true
+draft: false
 ---
 
 En artículos anteriores mencioné una de mis PCs que ejecuta Linux con una CPU Athlon 64. HP construyó una de ellas, por lo que ha pasado años desde que salió Windows XP.
