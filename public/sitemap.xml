@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/joolsite/en/sitemap.xml</loc>
+    <loc>http://localhost:44295/joolsite/en/sitemap.xml</loc>
     
       <lastmod>2024-07-12T13:01:18-04:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/joolsite/es/sitemap.xml</loc>
+    <loc>http://localhost:44295/joolsite/es/sitemap.xml</loc>
     
       <lastmod>2024-07-25T23:53:40-04:00</lastmod>
     
