@@ -12,6 +12,15 @@
     <description><![CDATA[¡Bienvenidos a KeSite! ¡Vamos a introducir a Jool!Jool es autor de este sitio. Él es un hombre de [college] en la vida real. A él le gusta astronomía, computadoras, idiomas y geografía. Él juega Kerbal Space Program, Endless Sky y SuperTuxKart. Él sube vídeos también, pero la tasa de subidas se está desacelerando. Él tiene redes sociales listadas por enlaces y nombres de usuarios.
 Él está en YouTube, Twitch, Rumble y Odysee.]]></description>
 </item><item>
+    <title>Actualización de Linux Mint en PC Athlon</title>
+    <link>https://jool402.github.io/joolsite/es/posts/linux-mint-upgrade-on-athlon-pc/</link>
+    <pubDate>Fri, 26 Jul 2024 12:35:58 -0400</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://jool402.github.io/joolsite/es/posts/linux-mint-upgrade-on-athlon-pc/</guid>
+    <description><![CDATA[En artículos anteriores mencioné una de mis PCs que ejecuta Linux con una CPU Athlon 64. HP construyó una de ellas, por lo que ha pasado años desde que salió Windows XP.
+Pasó por una fase de salto de distribución de Arch Linux a Linux Mint. Puse Arch Linux, Debian, Linux Mint, NixOS, etc. No todo salió bien. Las distribuciones que fallaron fueron Gentoo y KISS Linux.
+Muchas distribuciones de Linux funcionaron de inmediato, pero finalmente volví a las primeras tres distribuciones mencionadas en la lista.]]></description>
+</item><item>
     <title>Personalizando Mi KDE Plasma</title>
     <link>https://jool402.github.io/joolsite/es/posts/customizing-the-kde-plasma/</link>
     <pubDate>Fri, 26 Jul 2024 12:28:31 -0400</pubDate><author>

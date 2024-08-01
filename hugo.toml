@@ -27,7 +27,7 @@ email = "dqz8grpl9@mozmail.com"
 	weight = 2
 
 	[languages.fr]
-	disabled = true
+	disabled = false
 	languageName = "French"
 	languageDirection = "ltr"
 	weight = 3
